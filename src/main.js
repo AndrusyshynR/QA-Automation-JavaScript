@@ -1,6 +1,6 @@
 // String
-let myName = 'Roman'
-let stringNumber = '5345345768'
+let myName = 'Roman';
+let stringNumber = '5345345768';
 console.log(typeof myName);
 console.log(typeof stringNumber);
 console.log(`My name is ${myName}`);
